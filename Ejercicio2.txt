@@ -1,0 +1,7 @@
+Suma de digitos
+
+- El numero que está ingresando el user sea positivo
+- Control de flujo (validar el tipo de numero)
+- Bucle while
+- Mientras el numero sea mayor a 0, se sigue procesando sus digitos
+- Suma de los digitos tiene que ser positivo
