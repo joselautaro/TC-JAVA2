@@ -1,0 +1,6 @@
+Averiguar si es o no un palindromo
+
+Ingreso por consola
+Control de flujos
+Bucle
+Imprimir resultado
