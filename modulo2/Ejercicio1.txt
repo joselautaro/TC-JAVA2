@@ -1,0 +1,9 @@
+REGISTRO DE CALIFICACIONES
+
+- Ingresar el numero de estudiantes
+- Usar algun tipo de bucle
+- Tenemos que saber el nombre de los estudiantes
+- Tenemos que saber la identificacion de los estudiantes
+- Tenemos que saber el numero de calificaciones por estudiantes
+- Tenemos que ver los detalles de los estudiantes y sus promedios
+- Tiene que haber una clase estudiante con sus respectivos atributos, detalles, getter, método para calcular el promedio
