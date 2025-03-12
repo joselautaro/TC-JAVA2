@@ -1,0 +1,12 @@
+Sistema de Reserva de Boletos
+
+- Futbol-Final | Basquet-Semifinal | Tenis-Cuartos de Final
+- Boletos disponibles 50, 30, 20
+- Menu principal:
+    . Ver eventos disponibles
+    . Reservar Boletos
+    . Salir
+
+- Metodos para el menu completo
+- Restar la cantidad de boletos disponibles a medida que se vayan comprando
+- Bucles (while y for), try-catch, String Builder, Excepciones(NumberFormatException)
