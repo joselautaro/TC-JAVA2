@@ -1,0 +1,9 @@
+Sistema de Alquiler de Transporte
+
+- Se podrán alquilar al menos 3 tipos de vehiculos diferentes
+- El sistema tendrá que tener al menos 2 excepciones personalizadas
+- Al menos 1 vehiculo debe tener al menos limites de edad para poder ser alquilado
+- Al menos 1 vehiculo debe saberse si ya fue alquilado o no
+- Deben poder devolverse los vehiculos
+- El sistema tiene que tener: interface, implements, Override, booleanos, try-catch
+- La aplicacion debe ser dividida en al menos 7 clases diferentes
