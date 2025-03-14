@@ -4,9 +4,9 @@ public class Motocicleta implements VehiculoAlquilable {
     private String marca;
     private boolean alquilado;
 
-    public Motocicleta(String marca, boolean alquilado) {
+    public Motocicleta(String marca) {
         this.marca = marca;
-        this.alquilado = alquilado;
+        this.alquilado = false;
     }
 
     @Override

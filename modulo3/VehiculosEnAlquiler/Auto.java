@@ -4,9 +4,9 @@ public class Auto implements VehiculoAlquilable {
     private String marca;
     private boolean alquilado;
 
-    public Auto(String marca, boolean alquilado) {
+    public Auto(String marca) {
         this.marca = marca;
-        this.alquilado = alquilado;
+        this.alquilado = false;
     }
 
     @Override
