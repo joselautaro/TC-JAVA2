@@ -1,0 +1,12 @@
+Biblioteca Virtual
+
+- 2 Excepciones personalizadas
+- De las excepciones personalizadas, clases unicas. Ej: Lector.java (LectorNoEncontradoException).
+- Agregar lector o usuario.
+- Agregar Libro o usuario.
+- Prestar lisbro
+- Devolver Libro
+- Dos clases deben tener un minimo de 3 atributos
+- Se deben utilizar HashMap y ArrayList
+- Debe haber una clase principal la cual va a tener sus respectivas clases con herencia
+- Declarar getters y setters cuando sea necesario
