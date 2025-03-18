@@ -8,7 +8,6 @@ public class Bibliotecario extends Persona{
 
     @Override
     public void mostrarDetalles() {
-        // TODO Auto-generated method stub
         
     }
     
